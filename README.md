@@ -10,8 +10,6 @@ Customers can browse, select, and order fresh chicken products **without needing
 > **Color Palette:** Red (#D32F2F) and White (#FFFFFF)  
 > **Design Goal:** Minimal, clean UI with smooth transitions and friendly typography.
 
-![chickie-mart-preview](https://via.placeholder.com/1200x600?text=ChickieMart+Preview)
-
 ---
 
 ## 🚀 Features
@@ -22,7 +20,7 @@ Customers can browse, select, and order fresh chicken products **without needing
 - 📦 **Cart System** — Add, remove, and update items before checkout  
 - 📱 **Responsive Design** — Mobile-first layout using Tailwind CSS  
 - 🧾 **Order Confirmation** — Thank-you screen and optional upload of payment proof  
-- 🔒 (Optional Admin Panel) — Manage products and verify orders
+- 🔒 (Admin Panel) — Manage products and verify orders
 
 ---
 
