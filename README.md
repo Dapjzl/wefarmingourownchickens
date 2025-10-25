@@ -1,4 +1,4 @@
-# 🐔 ChickieMart – Simple Chicken E-commerce Website
+# 🐔 We farmin our own chickens – Chicken E-commerce Website
 
 A simple, elegant, and fast **chicken e-commerce web app** built with **Next.js** and **Tailwind CSS**.  
 Customers can browse, select, and order fresh chicken products **without needing to log in**, and complete payments via **bank transfer**.
